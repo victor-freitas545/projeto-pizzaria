@@ -1,0 +1,18 @@
+h1, footer{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(215, 182, 34);
+    color: white;
+    padding: 10px;
+    font-family:"Open Sans",sans-serif;
+    margin-bottom: 30px;
+}
+main {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.card,.lista{
+    display: flex;
+    justify-content: center;
+}
